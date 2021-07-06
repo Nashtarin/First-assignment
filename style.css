@@ -22,16 +22,20 @@ body{
     margin-bottom: 80px;
 }
 .half img{
-    width:75git%;
+    width:75%;
 }
 .second{
     display:flex;
-    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-image: url(images/shapes/Frame\ 59.jpg);
     
     
     background-repeat: no-repeat;
     
     background-size: 100%;
+    margin-bottom: 100px;
+}
+.third{
+    margin-bottom: 100px;
 }
 .last{
     display:flex;
@@ -58,4 +62,20 @@ body{
     width: 100%;
     background-color: black;
     color:White;
+}
+.fourth{
+    display:flex;
+    border-radius: 30px;
+    box-shadow:10px 10px 20px hotpink;
+    width:75%;
+    margin-left: 12%;
+    margin-bottom: 55px;
+    
+    
+}
+.bonus{
+    width:33.33%;
+    height:30px;
+    padding-left: 40px;
+    
 }
