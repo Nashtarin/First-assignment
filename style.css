@@ -1,4 +1,4 @@
-#s{
+.s{
     color:rgb(216, 34, 134);
 }
 body{
@@ -22,13 +22,40 @@ body{
     margin-bottom: 80px;
 }
 .half img{
-    width:71%;
+    width:75git%;
 }
 .second{
     display:flex;
     background-image: url(images/shapes/Frame\ 58.jpg);
-    margin:0;
-    padding:0;
+    
+    
     background-repeat: no-repeat;
+    
+    background-size: 100%;
+}
+.last{
+    display:flex;
+}
+.food{
+    width:30%;
+    height:25%;
+    box-shadow:10px 10px 20px hotpink;
+    padding:10px;
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.food img{
     width:100%;
+    height:40%;
+    border-radius:7px;
+   
+}
+.foot{
+    text-align: center;
+    font-size: 11px;
+    height:110px;
+    width: 100%;
+    background-color: black;
+    color:White;
 }
